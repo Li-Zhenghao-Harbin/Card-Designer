@@ -1,0 +1,10 @@
+D:\Card Designer\Card Designer\bin\Release\Card Designer.exe.config
+D:\Card Designer\Card Designer\bin\Release\Card Designer.exe
+D:\Card Designer\Card Designer\bin\Release\Card Designer.pdb
+D:\Card Designer\Card Designer\obj\Release\Card Designer.csproj.AssemblyReference.cache
+D:\Card Designer\Card Designer\obj\Release\Card_Designer.FrmMain.resources
+D:\Card Designer\Card Designer\obj\Release\Card_Designer.Properties.Resources.resources
+D:\Card Designer\Card Designer\obj\Release\Card Designer.csproj.GenerateResource.cache
+D:\Card Designer\Card Designer\obj\Release\Card Designer.csproj.CoreCompileInputs.cache
+D:\Card Designer\Card Designer\obj\Release\Card Designer.exe
+D:\Card Designer\Card Designer\obj\Release\Card Designer.pdb
