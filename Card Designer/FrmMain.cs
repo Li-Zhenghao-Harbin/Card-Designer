@@ -44,6 +44,7 @@ namespace Card_Designer
             Lbl_CardDescription.Parent = Pic_Background;
             Lbl_CardTitle.BackColor = Lbl_CardPoints.BackColor = Lbl_CardShape.BackColor = Lbl_CardDescription.BackColor = Color.Transparent;
             Combo_Level.SelectedIndex = 0;
+            Rtx_Description.LanguageOption = RichTextBoxLanguageOptions.UIFonts;
         }
 
         private void Btn_Icon_Click(object sender, EventArgs e)
@@ -161,7 +162,7 @@ namespace Card_Designer
 
         private void aboutCardDesignerToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Card Designer\n\nalpha\n\nAnthor: Zhenghao Li");
+            MessageBox.Show("Card Designer\n\nv 1.0.0\n\nAnthor: Zhenghao Li");
         }
     }
 }
